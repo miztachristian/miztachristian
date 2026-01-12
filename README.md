@@ -9,7 +9,7 @@ I build reliable, observable systems that turn messy inputs into explainable sig
 ## About
 
 - Senior Data Engineer at Nationale-Nederlanden (Fmr: Finance & Risk data platforms
-  Present: Cloud FinOps Platform)
+  ....Present: Cloud FinOps Platform)
 - Build and operate Azure + Databricks pipelines with strong governance, CI/CD, and cost attribution
 - Background in banking and insurance, with a strong bias for reliability over novelty
 - Interested in how decision systems behave under uncertainty and imperfect data
