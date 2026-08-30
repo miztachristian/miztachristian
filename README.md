@@ -1,15 +1,25 @@
-# Christian Onyekwe
+<div align="center">
 
-Senior Data Engineer focused on cloud data platforms, FinOps, and decision systems.
+<img src="assets/banner.svg" alt="Christian Onyekwe, Senior Data Engineer" width="100%" />
 
-I build reliable, observable systems that turn messy inputs into explainable signals in regulated environments.
+<br/>
+
+**I build reliable, observable systems that turn messy inputs into explainable signals in regulated environments.**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-christianonyekwe.dev-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://christianonyekwe.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianonyekwe/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-fcd34d?style=flat-square&logo=gmail&logoColor=white)](mailto:christian.onyekwe@yahoo.com)
+![Location](https://img.shields.io/badge/Arnhem-Netherlands-a78bfa?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
 
 ## About
 
-- Senior Data Engineer at Nationale-Nederlanden (Fmr: Finance & Risk data platforms
-  ....Present: Cloud FinOps Platform)
+- Senior Data Engineer at Nationale-Nederlanden (Fmr: Finance & Risk data platforms. Present: Cloud FinOps Platform)
 - Build and operate Azure + Databricks pipelines with strong governance, CI/CD, and cost attribution
 - Background in banking and insurance, with a strong bias for reliability over novelty
 - Interested in how decision systems behave under uncertainty and imperfect data
@@ -17,37 +27,37 @@ I build reliable, observable systems that turn messy inputs into explainable sig
 
 ---
 
-## What I’m Working On
+## What I'm Working On
 
-- **Trade Signal Engine**  
-  Deterministic long/short signal generation from market data with strict data validation, caching, latency control, and replayability
+🏗️ **Cloud FinOps platform engineering.** Cost attribution, tagging governance, and showback across Azure estates, plus FinOps practice for AI workloads.
 
-- **Legal Claim Triage System**  
-  Intake intelligence for personal injury law firms to pre-assess claims before human review
+📊 **Multi-market equity intelligence.** Research desks for the Nigerian Exchange and the JSE that ingest fundamentals, disclosures, and news, then score every listed name into one explainable conviction number.
 
-- Applying the same engineering discipline across domains: structured inputs, transparent rules, metrics, and auditability
+⛓️ **On-chain data infrastructure.** Real-time ingestion and analytics across Solana, EVM, and Sui, built on a chain-agnostic core.
 
-- Exploring FinOps principles beyond infrastructure: signal cost, API efficiency, and value density
+🧪 **Honest validation as a discipline.** Applying the same bar everywhere: out-of-sample tests, walk-forward checks, realistic cost, and a framework built to reject overfit edges rather than rationalize them.
 
 ---
 
 ## Featured Work
 
-### Trade Signal Engine
-Rule-based signal generation using technical indicators and multi-timeframe confirmation.  
-Designed for deterministic outputs, cost-aware data ingestion, and explainability over prediction hype.
+| Project | What it is |
+|---|---|
+| **[OnchainIQ](https://github.com/miztachristian/OnchainIQ)** | Real-time on-chain data and trading-research infrastructure. Streaming ingestion (gRPC / WSS / SSE), a composable risk-filter pipeline, MEV-aware execution, and an out-of-sample backtest core spanning Solana, EVM, and Sui. |
+| **[NaijaAlphas](https://github.com/miztachristian/NaijaAlphas)** | Equity intelligence for the Nigerian Exchange. Ingests fundamentals, NGX disclosures, annual reports, news, and macro, then fuses eight signals into one explainable 0 to 100 conviction score with a clear action. |
+| **[JSE Stock Analysis & Backtesting](https://github.com/miztachristian/South-African-Stocks-System)** | Quantitative research platform for the Johannesburg Stock Exchange. Combined decision engine, hidden-gems and blue-chip screeners with safety gates, seasonality analysis, and a vectorized momentum backtester across 245+ stocks. |
+| **[AlphaGate](https://github.com/miztachristian/AlphaGate)** | Algorithmic trading and regime-gating engine. Every candidate signal must clear ten checks before it reaches you. Anything that fails is suppressed by default, not passed through with a warning. |
+| **[OranjeWheel](https://github.com/miztachristian/OranjeWheel)** | Combinatorial coverage engine for the Dutch Lotto. Builds abbreviated covering designs and proves the guarantee exhaustively, verifying all 495 possible outcomes before a ticket is ever printed. |
 
-### Market Data Cache & Backfill Layer
-Cache-first OHLCV ingestion with incremental updates, historical backfills, and observability  
-to control API spend and guarantee reproducible signal runs.
+**Also building**
 
-### Legal Claim Triage System
-Transforms unstructured claimant narratives into standardized fields and transparent viability signals  
-to reduce noise and expectation mismatch during intake.
+- **Trade Signal Engine.** Deterministic long/short signal generation from market data with strict data validation, caching, latency control, and replayability.
+- **Market Data Cache & Backfill Layer.** Cache-first OHLCV ingestion with incremental updates, historical backfills, and observability to control API spend and guarantee reproducible signal runs.
+- **Legal Claim Triage System.** Intake intelligence for personal injury law firms to pre-assess claims before human review.
 
 ---
 
-## Legal Claim Triage — Clarification
+## Legal Claim Triage: Clarification
 
 This system does **not** provide legal advice.
 
@@ -63,30 +73,58 @@ Explainability and disclaimers are non-negotiable.
 
 ## Tech Stack
 
-**Cloud**  
-Azure, AWS (Intermediate)
+**Cloud & Data Platforms**
+Microsoft Azure, AWS, Databricks, Delta Lake, Azure Data Factory, ADLS Gen2, Azure SQL.
 
-**Data & Analytics**  
-Databricks, Apache Spark, Delta Lake, Azure Data Factory, ADLS Gen2
+**Data Engineering**
+Python, SQL, PySpark, ETL/ELT, data modelling, medallion architecture, data quality, data pipeline development, data warehousing.
 
-**DevOps & IaC**  
-Azure DevOps, Terraform, ARM Templates, Git
+**DevOps & IaC**
+Azure DevOps, CI/CD, Terraform, ARM/Bicep, Git, PowerShell.
 
-**Observability**  
-Azure Monitor, Log Analytics, Application Insights, Grafana, Prometheus
+**Observability & FinOps**
+Azure Monitor, Log Analytics, Application Insights, cloud cost management (FinOps).
 
-**Languages**  
-Python, SQL, PowerShell
+**Ways of working**
+Agile/Scrum, stakeholder management, technical mentoring.
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
 
 ---
 
 ## Certifications
 
-- Azure Solutions Architect Expert
-- Azure DevOps Engineer Expert
-- Terraform Associate
-- TOGAF Foundation
-- AWS Cloud Practitioner
+**Active**
+
+- FinOps Certified Practitioner, FinOps Foundation (2025)
+- FinOps Certified: FinOps for AI, FinOps Foundation (2026)
+- Microsoft Certified Trainer (MCT), Microsoft (2022 to 2026)
+- Azure DevOps Engineer Expert (AZ-400), Microsoft (2023)
+- Azure Administrator Associate (AZ-104), Microsoft (2023)
+- TOGAF 9 Foundation, The Open Group (2023)
+- Professional Scrum Master I & Product Owner I, Scrum.org (2022)
+
+**Previously certified**
+
+- Azure Solutions Architect Expert (AZ-305), 2023 to 2026
+- Azure Data Engineer Associate, 2021 to 2025
+- AWS Cloud Practitioner, 2022 to 2025
+- HashiCorp Terraform Associate, 2022 to 2024
 
 ---
 
@@ -96,18 +134,16 @@ I optimize for systems that are:
 - predictable in production
 - observable under failure
 - explainable to non-engineers
-- boring when they’re working correctly
+- boring when they're working correctly
 
-If a system feels clever in production, it’s probably fragile.
+If a system feels clever in production, it's probably fragile.
 
 ---
 
-## Connect
+<div align="center">
 
-- LinkedIn: https://www.linkedin.com/in/christianonyekwe/
-- Location: Arnhem, Netherlands
-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christian.onyekwe@yahoo.com) 
+**Open to conversations about cloud data platforms, FinOps, and decision systems.**
 
+[christianonyekwe.dev](https://christianonyekwe.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/christianonyekwe/) &nbsp;·&nbsp; Arnhem, Netherlands
 
-  # 💻 Stack😉:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
