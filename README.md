@@ -29,8 +29,6 @@
 
 ## What I'm Working On
 
-🏗️ **Cloud FinOps platform engineering.** Cost attribution, tagging governance, and showback across Azure estates, plus FinOps practice for AI workloads.
-
 📊 **Multi-market equity intelligence.** Research desks for the Nigerian Exchange and the JSE that ingest fundamentals, disclosures, and news, then score every listed name into one explainable conviction number.
 
 ⛓️ **On-chain data infrastructure.** Real-time ingestion and analytics across Solana, EVM, and Sui, built on a chain-agnostic core.
@@ -51,8 +49,6 @@
 
 **Also building**
 
-- **Trade Signal Engine.** Deterministic long/short signal generation from market data with strict data validation, caching, latency control, and replayability.
-- **Market Data Cache & Backfill Layer.** Cache-first OHLCV ingestion with incremental updates, historical backfills, and observability to control API spend and guarantee reproducible signal runs.
 - **Legal Claim Triage System.** Intake intelligence for personal injury law firms to pre-assess claims before human review.
 
 ---
@@ -142,7 +138,7 @@ If a system feels clever in production, it's probably fragile.
 
 <div align="center">
 
-**Open to conversations about cloud data platforms, FinOps, and decision systems.**
+**Open to conversations about cloud data platforms, Decision systems, GenAIOps, FinOps.**
 
 [christianonyekwe.dev](https://christianonyekwe.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/christianonyekwe/) &nbsp;·&nbsp; Arnhem, Netherlands
 
