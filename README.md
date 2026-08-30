@@ -138,7 +138,7 @@ If a system feels clever in production, it's probably fragile.
 
 <div align="center">
 
-**Open to conversations about cloud data platforms, Decision systems, GenAIOps, FinOps.**
+**Open to conversations about Cloud & Data platforms, Decision systems, GenAIOps and FinOps.**
 
 [christianonyekwe.dev](https://christianonyekwe.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/christianonyekwe/) &nbsp;·&nbsp; Arnhem, Netherlands
 
